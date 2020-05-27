@@ -87,7 +87,7 @@
 		background: var(--o-meter-background-color);
 		// Chrome 83 added a border which we want to remove
 		border-radius: 0px;
-		border: none;
+		border: 0;
 	}
 
 	/*  Optimum bar in Firefox */
