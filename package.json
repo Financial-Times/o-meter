@@ -1,4 +1,5 @@
 {
+    "name": "@financial-times/o-meter",
     "devDependencies": {
         "eslint": "^7.9.0",
         "eslint-config-origami-component": "^2.1.0",
