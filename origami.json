@@ -91,7 +91,7 @@
 				"percentValue": 25
 			},
 			"description": "pa11y",
-			"hidden" true
+			"hidden": true
 		}
 	]
 }
