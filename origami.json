@@ -81,6 +81,17 @@
 				"percentValue": 25
 			},
 			"description": "This demo shows a meter with a value of 25 with customised width and length. Do not forget to add an aria-label attribute to describe your meter."
+		},
+		{
+			"title": "pa11y",
+			"name": "pa11y",
+			"template": "demos/src/pa11y.mustache",
+			"data": {
+				"meterValue": 25,
+				"percentValue": 25
+			},
+			"description": "pa11y",
+			"hidden" true
 		}
 	]
 }
