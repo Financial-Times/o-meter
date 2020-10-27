@@ -1,28 +1,39 @@
 {
-    "name": "@financial-times/o-meter",
-    "version": "100.0.0-8",
-    "description": "Provides customization for meter tag",
-    "license": "MIT",
-    "type": "module",
-    "exports": {
-        ".": {
-            "browser": "./main.js"
-        }
-    },
-    "browser": "./main.js",
-    "types": "types",
-    "devDependencies": {
-        "eslint": "^7.9.0",
-        "eslint-config-origami-component": "^2.1.0",
-        "origami-ci-tools": "^2.1.0",
-        "stylelint-config-origami-component": "^1.0.4"
-    },
-    "peerDependencies": {
-        "@financial-times/o-colors": "^100.0.0-9",
-        "@financial-times/o-spacing": "^100.0.0-9",
-        "@financial-times/o-typography": "^100.0.0-9"
-    },
-    "publishConfig": {
-        "registry": "https://origami-npm-registry-prototype.herokuapp.com"
+  "name": "@financial-times/o-meter",
+  "version": "100.0.0-10",
+  "description": "Provides customization for meter tag",
+  "keywords": [],
+  "homepage": "https://github.com/Financial-Times/o-meter#readme",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/o-meter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/o-meter.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "exports": {
+    ".": {
+      "browser": "./main.js"
     }
+  },
+
+  "browser": "./main.js",
+  "types": "types",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-origami-component": "^2.1.0",
+    "origami-ci-tools": "^2.1.0",
+    "stylelint-config-origami-component": "^1.0.4"
+  },
+  "peerDependencies": {
+    "@financial-times/o-colors": "^100.0.0-10",
+    "@financial-times/o-spacing": "^100.0.0-10",
+    "@financial-times/o-typography": "^100.0.0-10"
+  },
+  "publishConfig": {
+    "registry": "https://origami-npm-registry-prototype.herokuapp.com"
+  }
 }
