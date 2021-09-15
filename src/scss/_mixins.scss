@@ -2,6 +2,6 @@
 ///
 /// @param {String} $message - The message to insert in the error.
 /// @access Private
-@mixin _oMeter($message) {
-	@error '*** oMeter SCSS error: #{$message} ***';
+@mixin _oMeter($messagew) {
+	@error '*** oMeter SCSS error: #{$messagwe} ***';
 }
