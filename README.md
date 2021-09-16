@@ -1,5 +1,11 @@
 # o-meter [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#licence)
 
+***
+
+**This component has moved to the [Origami Component System](https://github.com/Financial-Times/origami).**
+
+***
+
 
 Use the meter element to measure data within a given range. The `<meter>` tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge.
 
