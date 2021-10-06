@@ -1,1 +1,1 @@
-Work on this component continues in the [Origami Component System](https://github.com/Financial-Times/origami/tree/main/components/meter)
+Work on o-meter component continues as part of the [Origami Component System](https://github.com/Financial-Times/origami/tree/main/components/o-meter)
